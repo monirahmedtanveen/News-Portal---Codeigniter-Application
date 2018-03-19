@@ -1,0 +1,41 @@
+html,body{
+    margin-top: 30px;  // navbar-fixed-top er problem ta solve korar jonno eta kora hoise.....
+}
+
+.demo{
+    font-size: 100px;
+}
+.top_height{
+    margin-top: 55px;
+}
+
+.text_color{
+    color: white;
+}
+
+.menu_hover:hover{
+    background-color: graytext;
+}
+
+.service{
+    transform: scale(1);
+    transition: all 1s;
+}
+
+.service:hover{
+    transform: scale(1.1);
+}
+
+.big_footer{
+    min-height: 200px;
+    background-color: #cccccc;
+}
+
+.anqur{
+    color: white;
+}
+
+.anqur:hover{
+    color: black;
+    text-decoration: none;
+}

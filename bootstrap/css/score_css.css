@@ -1,0 +1,41 @@
+#box1
+{
+   float:left; 
+   width:180px;
+}
+#box2
+{
+  float:left; 
+  //width:20px;
+  
+}
+#box3
+{
+  float:left; 
+  margin-left:90px;
+}
+#box4
+{
+  float:left; 
+  margin-left:10px;
+}
+#box5
+{
+  float:left; 
+  //width:120px;
+}
+#box6
+{
+  float:left;
+  margin-left: 170px;
+}
+#box7
+{
+  float:left;
+  margin-left: 145px;
+}
+#box8
+{
+  float:left;
+  margin-left:10px;
+}
